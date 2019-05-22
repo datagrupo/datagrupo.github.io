@@ -11,8 +11,9 @@ Os cursos têm como temática _Introdução ao Python_ e _Python + OpenCV_ e est
 <img class="center" src=/assets/foto01.jpeg>
 <img class="center" src=/assets/foto02.jpeg>
 
+![foto01](/assets/foto01.jpeg)
+![foto02](/assets/foto02.jpeg)
 
-
-#[jekyll]:      http://jekyllrb.com
-#[jekyll-gh]:   https://github.com/jekyll/jekyll
-#[jekyll-help]: https://github.com/jekyll/jekyll-help
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
