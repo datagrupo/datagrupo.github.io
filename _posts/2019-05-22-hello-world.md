@@ -8,8 +8,8 @@ Temos a honra de comunicar os primeiros cursos ministrados pelo grupo de analise
 
 Os cursos têm como temática _Introdução ao Python_ e _Python + OpenCV_ e estão acontecendo no GICA (Grupo de Pesquisa em Inteligência Computacional Aplicada).
 
-<img class="center" src=_img/foto01.jpeg>
-<img class="center" src=_img/foto02.jpeg>
+<img class="center" src=assets/foto01.jpeg>
+<img class="center" src=assets/foto02.jpeg>
 
 
 
