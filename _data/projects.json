@@ -1,30 +1,30 @@
 [
 	{
-		"name": "Cool project 1",
+		"name": "UFPBots",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "Jan 2014",
 		"tags": ["Angular JS","API"]
 	},
 	{
-		"name": "Cool project 2",
+		"name": "ODG",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "May 2014",
 		"tags": ["Android","PHP"]
 	},
 	{
-		"name": "Cool project 3",
+		"name": "ODE",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
+		"date": "May 2014",
+		"tags": ["Android","PHP"]
 	},
 	{
-		"name": "Cool project 4",
+		"name": "Tree",
 		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
+		"url": "#",
+		"date": "May 2014",
+		"tags": ["Android","PHP"]
 	}
-
 ]

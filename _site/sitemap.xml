@@ -5,8 +5,8 @@
     <description>Grupo de análise de dados, todos os dados.</description>
     <link>/</link>
     <atom:link href="/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 May 2019 13:17:11 -0300</pubDate>
-    <lastBuildDate>Wed, 22 May 2019 13:17:11 -0300</lastBuildDate>
+    <pubDate>Wed, 22 May 2019 13:41:37 -0300</pubDate>
+    <lastBuildDate>Wed, 22 May 2019 13:41:37 -0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -31,8 +31,8 @@
     
     
       <item>
-        <title>Cool project 1</title>
-        <description>Cool project 1</description>
+        <title>UFPBots</title>
+        <description>UFPBots</description>
         <link>#</link>
         <pubDate>Wed, 01 Jan 2014 00:00:00 -0300</pubDate>
         
@@ -43,8 +43,8 @@
       </item>
     
       <item>
-        <title>Cool project 2</title>
-        <description>Cool project 2</description>
+        <title>ODG</title>
+        <description>ODG</description>
         <link>#</link>
         <pubDate>Thu, 01 May 2014 00:00:00 -0300</pubDate>
         
@@ -55,28 +55,26 @@
       </item>
     
       <item>
-        <title>Cool project 3</title>
-        <description>Cool project 3</description>
+        <title>ODE</title>
+        <description>ODE</description>
         <link>#</link>
-        <pubDate>Sun, 01 Jun 2014 00:00:00 -0300</pubDate>
+        <pubDate>Thu, 01 May 2014 00:00:00 -0300</pubDate>
         
-        <category>HTML</category>
-        
-        <category>JQuery</category>
+        <category>Android</category>
         
         <category>PHP</category>
         
       </item>
     
       <item>
-        <title>Cool project 4</title>
-        <description>Cool project 4</description>
-        <link></link>
-        <pubDate>Sat, 01 Oct 2016 00:00:00 -0300</pubDate>
+        <title>Tree</title>
+        <description>Tree</description>
+        <link>#</link>
+        <pubDate>Thu, 01 May 2014 00:00:00 -0300</pubDate>
         
         <category>Android</category>
         
-        <category>nodejs</category>
+        <category>PHP</category>
         
       </item>
     

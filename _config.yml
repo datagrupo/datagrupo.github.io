@@ -8,7 +8,7 @@ about: Análise de dados, todos os dados
 baseurl: ""
 url: ""
 
-allowsearch: true
+allowsearch: false
 
 disqus_shortname: datagrupo
 google_analytics: 
